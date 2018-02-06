@@ -1,8 +1,6 @@
 # archivesspace_search_title_boost
-ArchivesSpace plugin to boost exact matches on title field
-
-## What it does
-It's pretty simple: you search for
+ArchivesSpace plugin to boost exact matches on title field - improves precision of
+search queries from linked record fields (linked agents, subjects, etc.)
 
 ## Getting Started
 Clone or download/unzip this repo to:
