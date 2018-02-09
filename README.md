@@ -20,3 +20,6 @@ Then restart your ArchivesSpace installation.
 See also:
 
 https://github.com/archivesspace/archivesspace/blob/master/plugins/README.md
+
+## Thanks
+This plugin is modelled on [Hudson Molonglo's and_search plugin](https://github.com/hudmol/and_search)
